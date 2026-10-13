@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "easyeda2kicad") (type "KiCad") (uri "/Users/tle/PY32F002AW15U6TR/easyeda2kicad.kicad_sym") (options "") (descr ""))
+)
